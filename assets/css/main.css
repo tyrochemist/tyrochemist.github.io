@@ -77,7 +77,7 @@ input, select, textarea {
 	width: device-width;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 620px) {
 
 	html, body {
 		min-width: 320px;
