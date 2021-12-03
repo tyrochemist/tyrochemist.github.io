@@ -4,7 +4,7 @@
 #medium-widget .medium-widget-article__date {
     color: white;
     font-family: "Source Sans Pro", sans-serif;
-    font-size: 16pt;
+    font-size: 1rem;
 }
 
 @media screen and (max-width: 1680px) {
