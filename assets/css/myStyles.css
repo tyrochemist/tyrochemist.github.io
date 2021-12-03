@@ -1,0 +1,6 @@
+#medium-widget .medium-widget-article__title, 
+#medium-widget .medium-widget-article__description, 
+#medium-widget .medium-widget-article__author-name,
+#medium-widget .medium-widget-article__date {
+    color: white;
+}
