@@ -1,0 +1,14 @@
+---
+title: One-Pot Formation of Pairing Proto-RNA Nucleotides
+feed: show
+date: 12-01-2023
+---
+I have written about my research into barbituric acid (BA) nucleotides and the resulting publication in a previous post: ([[Ketose Sugars and Nucleoside Formation]]), but I want to tell a story here about more than just this nitrogenous base. Melamine, which you may be familiar with as the base unit of a common plastic material used in things like IKEA furniture, could have played a similar role to BA on the early earth.
+
+While BA mimics the canonical (meaning currently present in the RNA/DNA of modern life) base-pairing pattern of uracil/thymine (acceptor-donor-acceptor), melamine instead mimics the donor-acceptor-\[donor] motif present in adenine. The fact that these two monomers are complementary as such has led to discoveries that when placed in water, and attached to sugars to make them more able to dissolve, they will form stacked hexagon-shaped assemblies [Chen et al., 2013](https://pubs.acs.org/doi/10.1021/ja410124v). 
+
+As with most things in origin of life research, it's always nicer if you can remove the separation between reactions. There was no laboratory scientist on the early earth keeping the melamine and the barbituric acid separate—so why should we accept the fact that they attach to their sugars under different conditions? How could they ever have both formed early on, found each other, and formed such a beautiful assembly? 
+
+Well, maybe they didn't form separately. In my recently published paper, [One-Pot Formation of Pairing Proto-RNA Nucleotides and Their Supramolecular Assemblies](https://www.mdpi.com/2075-1729/13/11/2200), my collaborators and I were able to find a narrow temperature and pH range where mixing three compounds together in a single solution (BA, Mel, and ribose-5-phosphate), we were able to get the sugar-attached BA and the sugar-attached melamine, *and* see them both form assemblied without adding anything to or removing anything from the reaction mixture.
+
+The experimental design here was fairly straightforward, as it really came down to narrowing a range from a previously-published work, but the analysis proved to be more challenging. My nuclear magnetic resonance (NMR) and liquid chromatography-mass spectrometry (LC-MS) skills I had developed in my previous project were put to the test, and I gained experience with circular dichroism (CD), from which I was able to show a beautiful melting curve for the assemblies that formed. I must thank my colleague Suneesh Karunakaran for his fantastic atomic force microscopy (AFM) analysis, which greatly contributed to the conclusion that we were in fact forming assmeblies, and that they were forming long fibers. I was really happy to be able to complete this project, as it represented the culmination of all of my PhD work.
