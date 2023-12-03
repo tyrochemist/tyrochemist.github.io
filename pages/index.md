@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: Tyler Roche
+title: Tyler P. Roche, PhD
 ---
