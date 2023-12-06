@@ -6,4 +6,4 @@ title: Contact
 feed: hide
 ---
 
-You can contact me at [tylerroche@pm.me](mailto:tylerroche@pm.me).
+You can contact me at [tyler.roche@gmail.com](mailto:tyler.roche@gmail.com).

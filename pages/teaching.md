@@ -7,7 +7,6 @@ feed: hide
 ---
 
 # Visiting Assistant Professor of Chemistry, Trinity University
-I have taught two classes thus far at Trinity University, including Biochem I and Biochemistry Laboratory.
 
 ## Biochem I
 I have taught Biochem I in a flipped-classroom style, utilizing some previously-created videos and some I made myself, in order to foster productive engagement during the class period. Complementing the standard Biochemical curriculum, I included an emphasis on 3D-molecular visualization as well as incorporating discussions about racism in science and medicine as provided by my co-teacher.
