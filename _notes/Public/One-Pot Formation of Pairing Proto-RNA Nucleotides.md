@@ -1,7 +1,7 @@
 ---
 title: One-Pot Formation of Pairing Proto-RNA Nucleotides
 feed: show
-date: 12-01-2023
+date: 01-12-2023
 ---
 I have written about my research into barbituric acid (BA) nucleotides and the resulting publication in a previous post: ([[Ketose Sugars and Nucleoside Formation]]), but I want to tell a story here about more than just this nitrogenous base. Melamine, which you may be familiar with as the base unit of a common plastic material used in things like IKEA furniture, could have played a similar role to BA on the early earth.
 
