@@ -16,3 +16,5 @@ Well, some research points towards the idea of self-assembly. The pieces and par
 My most recent project ([[One-Pot Formation of Pairing Proto-RNA Nucleotides]]) shows how we managed to find the possible conditions for these pieces of ancient DNA to self-assemble. There are two different bases, rather than the four present in modern DNA, which makes things slightly easier—but we still had to ensure they could attach to their scaffold molecule, like pegs in the holes of your furniture before bringing two pieces together. We managed to see not only that they attached, but also, without any further help, that they then managed to self-assemble. 
 
 Without the equivalent of an IKEA builder back on the early Earth, when life began to form, the chemical soup had to figure out its own instructions. This work sheds some light on how the building of the furniture of life began.
+
+(Thanks to [Ashley Ruba, PhD](https://www.linkedin.com/in/ashleyruba-phd/) for the inspiration for this post! I hope to post more about science in a perhaps more relatable way than I have as an academic.)
