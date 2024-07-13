@@ -1,0 +1,64 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 1.5vw;
+}
+
+h1 {
+  text-align: left;
+  font-size: 6vw;
+  margin-bottom: 16px;
+}
+
+h2 {
+  text-align: left;
+  font-size: 2vw;
+  font-weight: 200;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  background-clip: inherit;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: [left] auto [center] 1fr [right];
+  grid-template-rows: [top] auto [mid] 1fr [bot];
+  align-content: end;
+}
+
+.navbar {
+  grid-column: left / center;
+  grid-row: mid / bot;
+  align-self: end;
+}
+
+.header {
+  grid-column: center / right;
+  grid-row: top / mid;
+  align-self: end;
+  justify-self: start;
+}
+
+.hero {
+  grid-column: center / right;
+  grid-row: mid / bot;
+  place-self: stretch;
+}
+
+.gradient-text {
+  background-image: linear-gradient(90deg, orange, blue);
+  color: transparent;
+  background-clip: text;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
