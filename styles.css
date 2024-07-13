@@ -24,8 +24,7 @@ h2 {
   grid-template-columns: [left] auto [center] 1fr [right];
   grid-template-rows: [top] auto [mid] 1fr [bot];
   align-content: end;
-  height: 100%;
-  width: auto;
+  width: 100%;
 }
 
 .navbar {
